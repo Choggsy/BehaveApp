@@ -26,7 +26,7 @@ class InfoCardAdapter(private val infoCards: List<InfoCard>) : RecyclerView.Adap
         holder.title.text = infoCard.title
         holder.description.text = infoCard.description
         // Load image using Glide
-        Glide.with(holder.image.context).load(infoCard.imageUrl).into(holder.image)
+        Glide.with(holder.image.context).load(infoCard.imageUrl).into(holder.image).waitForLayout()
     }
 
     override fun getItemCount() = infoCards.size
