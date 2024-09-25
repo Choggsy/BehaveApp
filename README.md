@@ -1,7 +1,7 @@
 
 # Submission to the ConnectHack : Innovating Across Borders Hackathon.
 
-This App has been developed using Generative AI over the course of 2 days to 
+This App has been developed over the course of 2 days to 
 solve the problem of the brief on improving interface and usability of Travel Apps.
 Our team is called Syn tax and we have focused on improving features that explore specific
 country culture and safety. The Team consisted of five members with a mixed range of skills from
