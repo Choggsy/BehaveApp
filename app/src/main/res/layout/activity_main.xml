@@ -1,6 +1,7 @@
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
     android:orientation="vertical">
 
     <!-- Top Container -->
@@ -26,7 +27,7 @@
         android:gravity="center"
         android:orientation="horizontal"
         android:padding="16dp">
-        <!--        android:gravity="center"-->
+
         <EditText
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
@@ -75,30 +76,33 @@
             android:layout_gravity="center"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:nestedScrollingEnabled="true" />
+            android:nestedScrollingEnabled="true"
+            app:spanCount="2" />
+
     </ScrollView>
 
     <LinearLayout
-        android:layout_width="wrap_content"
+        android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:orientation="vertical">
+        android:orientation="vertical"
+        android:padding="8dp">
 
         <ImageView
             android:id="@+id/image"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content" />
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="1"
+            android:scaleType="centerCrop" />
 
         <TextView
             android:id="@+id/title"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content" />
-
-        <TextView
-            android:id="@+id/description"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content" />
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:padding="8dp"
+            android:textSize="16sp"
+            android:textColor="#000000" />
     </LinearLayout>
-
 
     <!-- Bottom Container -->
     <LinearLayout
@@ -137,4 +141,5 @@
             android:src="@drawable/settings" />
         <!-- Add your bottom container content here -->
     </LinearLayout>
+
 </LinearLayout>

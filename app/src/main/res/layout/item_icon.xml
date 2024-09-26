@@ -1,0 +1,27 @@
+<!-- res/layout/item_info_card.xml -->
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:padding="16dp">
+
+    <TextView
+        android:id="@+id/title"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="18sp"
+        android:textStyle="bold"
+        android:paddingBottom="10dp"
+        android:paddingTop="10dp"
+        android:layout_marginBottom="4dp"/>
+
+    <ImageView
+        android:id="@+id/image"
+        android:layout_width="133dp"
+        android:layout_height="143dp"
+        android:layout_marginBottom="8dp"
+        android:layout_gravity="center"
+        android:scaleType="centerCrop" />
+
+</LinearLayout>
