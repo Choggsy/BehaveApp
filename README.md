@@ -14,7 +14,24 @@ https://livebournemouthac-my.sharepoint.com/personal/bgorman_bournemouth_ac_uk/_
 
 
 ### First Day End Product 
-
+This is the Apps design and functionality after day one. The core layout of the app has been established
+and i've started the implementation of some of the features.
 
 https://github.com/user-attachments/assets/5f677bf6-3188-4d6a-a147-83c54518971d
+
+#### Here you can see the following:
+- The Recycle view has been populate with the data from a JSON file in the Main/Assets. This is where
+we will store the behavioural information, but as a first draft to indicate a connection has been made 
+i've populated the file with some dummy data.
+
+- The Information Cards have been implemented into a scrolling carousal on the middle of the screen. They currently have
+no behaviour. Tomorrow I will make the images image buttons which open a new view with the info-card information.
+
+- The Country selection bar has been added, which allows users to enter text into each field. This will 
+have behaviour added tomorrow to filter the information cards to a matching Country parameter.
+
+- Buttons have been added to the static bottom bar of the app- they currently don't link to any additional
+pages. For the purpose of this Hackathon being two days of coding I doubt i'l get any further than this 
+page for my implementation. But in the interest of finishing this project at a later date those icons 
+are buttons. They currently have no behaviour
 
