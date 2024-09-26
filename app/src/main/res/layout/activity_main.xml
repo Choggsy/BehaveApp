@@ -10,12 +10,19 @@
         android:layout_height="96dp"
         android:background="#8DC0ED"
         android:padding="16dp">
+
         <!-- top container content here -->
         <ImageView
-            android:layout_width="match_parent"
+            android:layout_width="32dp"
+            android:layout_height="62dp"
+            android:src="@drawable/back" />
+
+        <ImageView
+            android:layout_width="339dp"
             android:layout_height="match_parent"
             android:layout_gravity="center"
-            android:src="@drawable/behave" />
+            android:src="@drawable/logo" />
+
     </LinearLayout>
     <!-- Country Selector container-->
 
