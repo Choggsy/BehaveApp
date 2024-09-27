@@ -9,10 +9,17 @@ different degrees and levels. I Will be the main contributor to this implementat
 all the requirements and interface were created as a group effort in our PBR over a couple hours.
 
 ### Links to Brief and Hackathon information 
-
 https://livebournemouthac-my.sharepoint.com/personal/bgorman_bournemouth_ac_uk/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fbgorman%5Fbournemouth%5Fac%5Fuk%2FDocuments%2FBU%5FXJTLU
 
+## Design Documentation
+The Interface for the app was developed in parallel to this app’s development due to the short timeframe of this project. This did add an extra element of difficulty to the project in combination with the groups colliding schedule and work commitments. But by making daily check in posts within a Teams chat the group was able to keep every member updated on the completion of assigned tasks and upload these documents to a shared channel. This way: Hex codes, Vector Icons, Logos and Information Content was in a communal space to create some consistency between the design and the implementation despite members working from home or having ongoing working copies.
 
+### Final video of the Interactive Wireframe
+
+https://github.com/user-attachments/assets/245a9ca6-ee1d-4a46-b615-7c9a7e006cf8
+
+
+## Android App Development
 ### First Day End Product 
 This is the Apps design and functionality after day one. The core layout of the app has been established
 and I’ve started the implementation of some of the features.
@@ -36,7 +43,8 @@ page for my implementation. But in the interest of finishing this project later 
 are buttons. They currently have no behaviour.
 
 ### Second Day End Product 
-This is the Apps design and functionality after day two. The layout has been improved to use Image buttons now and display in a grid layout. The Logo changes as the Interface for the app was developed in parrell to this apps development.
+This is the Apps design and functionality after day two. The layout has been improved to use Image buttons now and display in a grid layout. 
+The Logo changes as the Interface for the app was developed in parrell to this apps development.
 
 
 https://github.com/user-attachments/assets/e63f0b50-8172-4401-8ddb-28ff5ff9e7e5
