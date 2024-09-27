@@ -35,3 +35,11 @@ pages. For the purpose of this Hackathon being two days of coding I doubt I’ll
 page for my implementation. But in the interest of finishing this project later those icons 
 are buttons. They currently have no behaviour.
 
+### Second Day End Product 
+This is the Apps design and functionality after day two. The layout has been improved to use Image buttons now and display in a grid layout. The Logo changes as the Interface for the app was developed in parrell to this apps development.
+
+
+https://github.com/user-attachments/assets/e63f0b50-8172-4401-8ddb-28ff5ff9e7e5
+
+
+
