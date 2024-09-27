@@ -69,5 +69,15 @@ The Logo changes as the Interface for the app was developed in parrell to this a
 
 https://github.com/user-attachments/assets/e63f0b50-8172-4401-8ddb-28ff5ff9e7e5
 
+- The layout inside the Recycle View now uses GridLayoutManager to display a grid of the information cards
+- Some of the irrelevant JSON data like Description was stripped back from this view. That will be used in an Information Cards expanded view in the next stage **Story**
+- Additional variables were added to the Info Card data class. The string values Country and Category will be used in the next deliverable to filter the info Cards in the View based on the matching parameter in the search bar at the top of the page.
 
+### End of Hackathon
+On the final day of the hackathon the team made some final changes to the overall presentation and discussed flow to the pitch. The Presentation went okay but we could have definitely improved on our pacing as we had a lot of content to show in only five minutes, so ultimately, we ended up skipping over some features in the sake of time. After our pitch the audience asked a few questions which I’ll try to summarise here for you:
+
+| **Question**                                                                 | **Answer**                                                                                                                                                                                                                                                                                                                                 |
+|-----------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| "You used a static Json file as your data source, how would you improve on this?" | I intentionally used a Json format instead of statically uploading the data in the resource directory, so that later an ApiService Interface can be integrated easily. I'd simply use the Retrofit library's @GET annotation to make that HTTP request.                                                                                     |
+| "If you were to put the app on the market today, how would the app make money?"   | This is an excellent question that got us all thinking. Since I honestly don't know how a purely informational app could make money, we discussed some similar sites to our app's model like Wikipedia and said that we would have to do further market research on how sites like that are able to source funding. |
 
