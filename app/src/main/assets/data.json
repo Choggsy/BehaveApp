@@ -1,26 +1,36 @@
 [
   {
     "title": "Title 1",
+    "country": "France",
+    "category": "Signs",
     "description": "Description 1",
     "imageUrl": "https://cdn.create.vista.com/api/media/small/259000076/stock-photo-illustration-like-icon"
   },
   {
     "title": "Title 2",
+    "country": "France",
+    "category": "Signs",
     "description": "Description 2",
     "imageUrl": "https://cdn.create.vista.com/api/media/small/259000076/stock-photo-illustration-like-icon"
   },
   {
     "title": "Title 3",
+    "country": "France",
+    "category": "Signs",
     "description": "Description 3",
     "imageUrl": "https://cdn.create.vista.com/api/media/small/259000076/stock-photo-illustration-like-icon"
   },
   {
     "title": "Title 4",
+    "country": "France",
+    "category": "Signs",
     "description": "Description 4",
     "imageUrl": "https://cdn.create.vista.com/api/media/small/259000076/stock-photo-illustration-like-icon"
   },
   {
     "title": "Title 5",
+    "country": "France",
+    "category": "Signs",
     "description": "Description 5",
     "imageUrl": "https://previews.123rf.com/images/fordzolo/fordzolo1506/fordzolo150600296/41026708-example-white-stamp-text-on-red-backgroud.jpg"
   }
