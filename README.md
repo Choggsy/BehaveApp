@@ -8,11 +8,32 @@ country culture and safety. The Team consisted of five members with a mixed rang
 different degrees and levels. I Will be the main contributor to this implementation but
 all the requirements and interface were created as a group effort in our PBR over a couple hours.
 
-### Links to Brief and Hackathon information 
-https://livebournemouthac-my.sharepoint.com/personal/bgorman_bournemouth_ac_uk/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fbgorman%5Fbournemouth%5Fac%5Fuk%2FDocuments%2FBU%5FXJTLU
+### Brief and Hackathon information 
+
+https://github.com/user-attachments/assets/251d0614-250f-431a-8894-285bead4daae
 
 ## Design Documentation
 The Interface for the app was developed in parallel to this app’s development due to the short timeframe of this project. This did add an extra element of difficulty to the project in combination with the groups colliding schedule and work commitments. But by making daily check in posts within a Teams chat the group was able to keep every member updated on the completion of assigned tasks and upload these documents to a shared channel. This way: Hex codes, Vector Icons, Logos and Information Content was in a communal space to create some consistency between the design and the implementation despite members working from home or having ongoing working copies.
+
+### Initial Requirements Gathered
+Here is a table of our inital requirements for the first draught of our App
+
+| Must                                    | Should                          | Could                                      | Won't                      |
+|-----------------------------------------|---------------------------------|--------------------------------------------|----------------------------|
+| Select a country to travel to           | Home country specification      | Dictionary of common road signs/beach flags | All countries on one app   |
+| Street accessibility                    | Emergency contact information   | Offline mode                               |                            |
+| Focus on one Usecase                    | Common holidays                 |                                            |                            |
+| National words/phrases/slang            |                                 |                                            |                            |
+| Common phrases in the local language    |                                 |                                            |                            |
+| Profiles with user history              |                                 |                                            |                            |
+
+
+### Market Research
+Some of the Mental Models used based of the Market Research done with: **Google Maps, TripAdvisor, Booking.com and Airbnb**
+- To and from destination navigation bar from **Google Maps Online.**
+- **Airbnb** App Interface for sleek app navigation
+- Content available on **Booking.com and TripAdvisor** and _**how that data is sourced (User Participation | Community funded)**_
+
 
 ### Final video of the Interactive Wireframe
 
