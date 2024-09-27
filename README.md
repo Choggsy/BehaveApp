@@ -21,11 +21,10 @@ Here is a table of our inital requirements for the first draught of our App
 | Must                                    | Should                          | Could                                      | Won't                      |
 |-----------------------------------------|---------------------------------|--------------------------------------------|----------------------------|
 | Select a country to travel to           | Home country specification      | Dictionary of common road signs/beach flags | All countries on one app   |
-| Street accessibility                    | Emergency contact information   | Offline mode                               |                            |
+| Street accessibility                    | Emergency contact information   | Offline mode                               |  Profiles with user history |
 | Focus on one Usecase                    | Common holidays                 |                                            |                            |
-| National words/phrases/slang            |                                 |                                            |                            |
-| Common phrases in the local language    |                                 |                                            |                            |
-| Profiles with user history              |                                 |                                            |                            |
+| National words/phrases/slang            | Important Safety information is highlighted |                                |                            |
+| Common phrases/idioms in the local language |                             |                                            |                            |
 
 
 ### Market Research
