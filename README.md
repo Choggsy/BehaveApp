@@ -81,3 +81,5 @@ On the final day of the hackathon the team made some final changes to the overal
 | "You used a static Json file as your data source, how would you improve on this?" | I intentionally used a Json format instead of statically uploading the data in the resource directory, so that later an ApiService Interface can be integrated easily. I'd simply use the Retrofit library's @GET annotation to make that HTTP request.                                                                                     |
 | "If you were to put the app on the market today, how would the app make money?"   | This is an excellent question that got us all thinking. Since I honestly don't know how a purely informational app could make money, we discussed some similar sites to our app's model like Wikipedia and said that we would have to do further market research on how sites like that are able to source funding. |
 
+![ce9615cc-a953-4a2f-ab8a-3d4f9f63629b](https://github.com/user-attachments/assets/f99ceda6-5ce8-4d82-8724-aaafff52980e)
+
